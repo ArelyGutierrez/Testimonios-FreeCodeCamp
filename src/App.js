@@ -1,5 +1,6 @@
 import './App.css';
 import { Testimonio } from './componentes/Testimonio.js';
+// import datos from './data.js';
 
 function App() {
   return (
